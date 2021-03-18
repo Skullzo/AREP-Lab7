@@ -1,7 +1,6 @@
 # Amazon Gateway y Lambda
 ## Descripción
-En el taller **Amazon Gateway y Lambda** se desarrolló una aplicación capaz de .
-*Terminar*
+En el taller **Amazon Gateway y Lambda** se desarrolló una aplicación capaz de mediante un servicio web en Spark, convertir de grados Fahrenheit a grados Celsius. Este servicio responde con un JSON, el cual fue desplegado en una máquina de AWS EC2, en la que se creó una ruta en API Gateway para así acceder al servicio, en la que la integración como tal no fue con función lambda, sino con la API. Posteriormente se creó una aplicación JS en la que se usa el servicio, la cual fue desplegada en S3, y se aseguró que estuviera disponible en internet desde cualquier máquina, para así comprobar que la aplicación fue desplegada con éxito y que puede ser usada desde cualquier máquina con acceso a internet. Para esto, fue necesario crear primero la aplicación en Java con interfaz de Usuario, en la que el Usuario puede ingresar el valor en Fahrenheit, para posteriormente ver por medio de la API que fue creada luego de crear la función lambda, el resultado de la conversión.
 
 ## Prerrequisitos
 Para la realización y ejecución tanto del programa como de las pruebas de este, se requieren ser instalados los siguientes programas:
