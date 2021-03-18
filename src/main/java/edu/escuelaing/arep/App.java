@@ -64,7 +64,8 @@ public class App {
         int digit= Integer.parseInt(String.valueOf(req));
         String result="";
         try {
-            URL url = new URL(   "" + "?value=" + digit);
+            URL url = new URL("https://sr7u3afts5.execute-api.us-east-1.amazonaws.com/Beta" + "?value=" + digit);
+            
             String temp;
             BufferedReader reader = new BufferedReader(
                     new InputStreamReader(url.openStream()));
