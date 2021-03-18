@@ -77,7 +77,7 @@ Para iniciar con el procedimiento de la creación de la función Lambda con su r
 
 
 
-![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS8.png)
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS8.PNG)
 
 ### Creación de la Función Lambda
 
@@ -233,7 +233,7 @@ Para iniciar con el procedimiento de la creación de la función Lambda con su r
 
 
 
-![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS45.png)
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS45.PNG)
 
 ----------
 
