@@ -229,7 +229,7 @@ Luego de realizar la implementación, se dejan los valores predeterminados que s
 
 Para probar el funcionamiento de la API con **41** grados Fahrenheit, se ingresa la URL de la API en el navegador, que es: https://sr7u3afts5.execute-api.us-east-1.amazonaws.com/Beta?value=41, añadiéndole al final de la URL **?value=41** para probar con dicho valor. Como se puede observar a continuación, el resultado que retorna la API es correcto, ya que **41 grados Fahrenheit** son **5 grados Celsius**, demostrando que ya la API funciona correctamente.
 
-![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS45.png)
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS45.PNG)
 
 ----------
 
