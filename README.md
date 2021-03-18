@@ -45,6 +45,14 @@ A continuación se muestran las pruebas compiladas correctamente para el código
 
 ----------
 
+### Creación de un Rol en Identity and Access Management (IAM)
+
+Para iniciar con el procedimiento de la creación de la función Lambda con su respectiva API, primero se debe crear un rol en Identity and Access Management (IAM). Para crear este rol, primero se accede al Dashboard de AWS, y se selecciona la opción IAM.
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS1.png)
+
+----------
+
 ### Docker
 
 Para verificar que en la aplicación Docker se hayan desplegado con éxito los contenedores en sus respectivos puertos, se abre la aplicación de Docker de escritorio y se hace la verificación que todos los contenedores estén corriendo en sus respectivos puertos. Como se ve en la siguiente imagen, todos los contenedores están corriendo satisfactoriamente.
