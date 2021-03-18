@@ -78,6 +78,8 @@ Para finalizar con la creación del rol que se utilizará para la función lambd
 
 ![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS8.PNG)
 
+----------
+
 ### Creación de la Función Lambda
 
 Para iniciar con el procedimiento de la creación de la función lambda, desde el Dashboard de AWS se realiza clic en el botón **Lambda**.
@@ -123,6 +125,8 @@ Para probarlo, primero se establece de nombre de la prueba **testSquare**, y se 
 Como se puede observar a continuación, la prueba ha sido compilado exitosamente, en la cual se evidencia que el código está retornando el valor correcto, ya que 32 grados Fahrenheit son 0 grados Celsius, como puede ser observado en pantalla. 
 
 ![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS19.png)
+
+----------
 
 ### Creación de la API REST
 
