@@ -41,9 +41,7 @@ mvn test
 
 A continuación se muestran las pruebas compiladas correctamente para el código fuente.
 
-![img](https://github.com/Skullzo/AREP-Lab6/blob/main/img/Prueba1.PNG)
-
-*Cambiar Pruebas*
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/Prueba.PNG)
 
 ----------
 
