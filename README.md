@@ -51,6 +51,190 @@ Para iniciar con el procedimiento de la creación de la función Lambda con su r
 
 ![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS1.png)
 
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS2.png)
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS3.png)
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS4.png)
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS5.png)
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS6.png)
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS7.png)
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS8.png)
+
+### Creación de la Función Lambda
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS9.png)
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS10.png)
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS11.png)
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS12.png)
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS13.png)
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS14.png)
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS15.png)
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS16.png)
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS17.png)
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS18.png)
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS19.png)
+
+### Creación de la API REST
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS19.png)
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS20.png)
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS21.png)
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS22.png)
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS23.png)
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS24.png)
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS25.png)
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS26.png)
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS27.png)
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS28.png)
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS29.png)
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS30.png)
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS31.png)
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS32.png)
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS33.png)
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS34.png)
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS35.png)
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS36.png)
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS37.png)
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS38.png)
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS39.png)
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS40.png)
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS41.png)
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS42.png)
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS43.png)
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS44.png)
+
+
+
+![img](https://github.com/Skullzo/AREP-Lab7/blob/main/img/AWS45.png)
+
 ----------
 
 ### Docker
@@ -59,22 +243,24 @@ Para verificar que en la aplicación Docker se hayan desplegado con éxito los c
 
 ![img](https://github.com/Skullzo/AREP-Lab6/blob/main/img/Docker1.PNG)
 
-*Cambiar Imagen y agregar cosas*
-
 Para comprobar que la página web ha sido desplegada con éxito de manera local utilizando Docker, se ingresa en el navegador la siguiente URL: https://localhost:8000/. Como se puede observar, el contenedor ha sido desplegado satisfactoriamente de manera local utilizando Docker.
 
-![img](https://github.com/Skullzo/AREP-Lab6/blob/main/img/Docker2.png)
+![img](https://github.com/Skullzo/AREP-Lab6/blob/main/img/Docker2.PNG)
 
-*Cambiar Imagen y agregar cosas*
+Luego de haber ingresado el valor en Fahrenheit (que para este caso se ha ingresado 41 grados Fahrenheit para realizar la prueba de la página web), se realiza clic en el botón **Convertir**. Luego de realizar clic en el botón **Convertir**, se muestra que se despliega en otra pestaña el resultado, que es **5 grados Celsuis**, y al ver la URL de la nueva pestaña, se ve que es la URL de la API que ha sido creada desde AWS, por lo que el programa está haciendo el uso respectivo de esta API, dándo como resultado que el programa está funcionando correctamente.
+
+![img](https://github.com/Skullzo/AREP-Lab6/blob/main/img/Docker3.PNG)
 
 ----------
 
 ### AWS
-Para realizar las pruebas correspondientes de la ejecución del programa en AWS, y que el contenedor se encuentra activo desde la máquina virtual, ingresamos en el navegador la siguiente URL: https://ec2-3-95-67-168.compute-1.amazonaws.com:8000. Como se puede observar, el contenedor ha sido desplegado satisfactoriamente desde la máquina virtual montada en AWS.
+Para realizar las pruebas correspondientes de la ejecución del programa en AWS, y que el contenedor se encuentra activo desde la máquina virtual, ingresamos en el navegador la siguiente URL: http://ec2-54-175-128-206.compute-1.amazonaws.com:8000/inputdata. Como se puede observar, el contenedor ha sido desplegado satisfactoriamente desde la máquina virtual montada en AWS.
 
-![img](https://github.com/Skullzo/AREP-Lab6/blob/main/img/AWS1.png)
+![img](https://github.com/Skullzo/AREP-Lab6/blob/main/img/AWSS1.PNG)
 
-*Cambiar Imagen y agregar cosas*
+Luego de haber ingresado el valor en Fahrenheit (que para este caso se ha ingresado 41 grados Fahrenheit para realizar la prueba de la página web), se realiza clic en el botón **Convertir**. Luego de realizar clic en el botón **Convertir**, se muestra que se despliega en otra pestaña el resultado, que es **5 grados Celsuis**, y al ver la URL de la nueva pestaña, se ve que es la URL de la API que ha sido creada desde AWS, por lo que el programa está haciendo el uso respectivo de esta API, dándo como resultado que el programa está funcionando correctamente.
+
+![img](https://github.com/Skullzo/AREP-Lab6/blob/main/img/AWSS2.PNG)
 
 ## Construido con
 * [Maven](https://maven.apache.org/). Herramienta que se encarga de estandarizar la estructura física de los proyectos de software, maneja dependencias (librerías) automáticamente desde repositorios y administra el flujo de vida de construcción de un software.
